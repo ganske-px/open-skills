@@ -130,7 +130,7 @@ Each skill follows this pattern:
 
 ```
 discipline/skills/skill-name/
-  skill-name.md          # Main skill definition (triggers, instructions, output format)
+  SKILL.md               # Main skill definition (triggers, instructions, output format)
   references/            # Supporting knowledge the skill needs
     frameworks/          # Decision trees, scoring rubrics, classification systems
     examples/            # Worked examples for few-shot learning
